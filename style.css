@@ -1,0 +1,115 @@
+#mainDiv {
+  width: 70mm;
+  height: 94.5mm;
+  border-style: dashed;
+  border-width: 1px;
+  position: relative;
+  z-index: 15;
+  top: 112px;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+}
+
+
+
+.txt-cen {
+  text-align: center;
+  font-size: 6px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: 6px;
+  width: 252px;
+  height: 68mm;
+  text-align: center;
+  /* font-family: verdana; */
+  font-size: 8px;
+}
+th,tr,td {
+  border: 1px solid black;
+}
+td,th {
+  font-family: verdana;
+}
+
+
+
+.sps {
+  text-align: center;
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 24px;
+  background-color: azure;
+}
+
+.bc {
+  text-align: center;
+}
+
+input,
+input::placeholder {
+  font: 20px/3 sans-serif;
+}
+
+.btncls {
+  margin-left: 300px;
+  font-size: 10px;
+}
+
+.pcls {
+  font-size: 7px;
+}
+
+.imgcls {
+  margin-left: 2px;
+  width: 80px;
+  height: 36px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.incls {
+  width: 60%;
+  height: 35px;
+}
+
+.btn1cls {
+  width: 49px; 
+  height:41px;
+  font-size: 15px;
+}
+
+.btn2 {
+  font-size: 24px;
+}
+
+.ldiv {
+  margin-left: 6px;
+  }
+
+#btnpos {
+  margin-left: 300px;
+  font-size: 10px;
+}
+
+.sp1 {
+  font-family: verdana;
+  font-size: 10px;
+}
+
+.sp2 {
+  font-family: verdana;
+  font-size: 7px;
+}
+
+.sp3 {
+  font-family: verdana;
+  font-size: 7px;
+}
+
+
+.ale {
+  text-align: left;
+}
